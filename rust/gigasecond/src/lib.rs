@@ -1,5 +1,4 @@
 use std::time::Duration;
-
 use time::PrimitiveDateTime as DateTime;
 
 // Returns a DateTime one billion seconds after start.
